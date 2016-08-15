@@ -8,8 +8,9 @@
 
 * Fork this repository.
 * `$ git clone git@github.com:<your username>/thinkster-django-angular-boilerplate.git`
-* `$ mkvirtualenv thinkster-djangular`
-* `$ cd thinkster-django-angular-boilerplate/`
+* `$ cd thinkster-django-angular-boilerplate`
+* `$ virtualenv thinkster-djangular`
+* `$ source thinkster-djangular/bin/activate`
 * `$ pip install -r requirements.txt`
 * `$ npm install -g bower`
 * `$ npm install`
